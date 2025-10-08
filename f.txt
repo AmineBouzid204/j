@@ -1,0 +1,42 @@
+      "Email": "aminebouzid90@gmail.com",
+      "Nom": "Bouzid",
+      "Num_telephone": 0665275623,
+      "Prenom": "Mohamed Amine",
+      "date_de_naissance": 2000-01-21
+      "lieu_de_naissance": "Oum_El_Bouaghi"
+     
+    
+      "Email": "raidghennai30@gmail.com",
+      "Nom": "Ghennai",
+      "Num_telephone": 0675920843,
+     "Prenom": "Raid",
+      "date_de_naissance": "2004-03-13
+          "lieu_de_naissance": "Constantine"
+      
+      
+    
+      "Email": "derbalzaher@gmail.com",
+      "Nom": "Derbal",
+      "Num_telephone": 0675764971,
+      "Prenom": "Zaher",
+      "date_de_naissance": "1999-01-05
+      "lieu_de_naissance": "Ain_Fakroun"
+     
+       
+    
+      "Email": "sohaib.ouanzar@gmail.com",
+      "Nom": "Ouanzar",
+      "Num_telephone": 0657232673,
+      "Prenom": "Sohaib",
+      "date_de_naissance": "2004-07-08
+      "lieu_de_naissance": "Oum_El_Bouaghi"
+      
+
+      "Email": "isslamhed04@gmail.com",
+      "Nom": "Hedjaz",
+      "Num_telephone": 0675064100,
+      "Prenom": "Ahmed Nour Elislem",
+      "date_de_naissance": "2004-01-19
+      "lieu_de_naissance": "Ain_Mlila"      
+
+      Spécialite : SI 
